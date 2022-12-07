@@ -81,12 +81,6 @@ Test your complete PyChain ledger and user interface by running your Streamlit a
 
 ![image](https://user-images.githubusercontent.com/108433370/206283865-1857e167-e080-4fc4-9199-2bf0d0b12063.png)
 
-![image](https://user-images.githubusercontent.com/108433370/206283917-5c4c1db6-b852-4562-b0ab-11ffdca24c3e.png)
-
-
-
-
-##
 
 
 
