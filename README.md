@@ -31,12 +31,6 @@ import hashlib
 
 ========================================================================================================
 
-## OUTPUT
-
-
-![image](https://user-images.githubusercontent.com/108433370/206280514-df5404e6-4379-49be-9228-f62469583f28.png)
-
-![image](https://user-images.githubusercontent.com/108433370/206280594-30db99bf-4c4d-437b-a33d-03efded6cede.png)
 
 
 
